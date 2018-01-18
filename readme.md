@@ -1,6 +1,7 @@
 I have made report for the lecture in notes/report.ipynb.
 In this repo, I have tried to synthesize lip motion from audio data using an simplified version of method featured in https://grail.cs.washington.edu/projects/AudioToObama/ .
-Below shows example synthesis.
+Below shows an example synthesis.
+
 This is the original lip motion.
 
 ![](notes/actual_lip.gif)
